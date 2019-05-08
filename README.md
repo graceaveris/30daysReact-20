@@ -1,8 +1,8 @@
-Day Twenty - 30 days of React challenge - Drag and Drop "trash can" app
+**Day Twenty - 30 days of React challenge - Drag and Drop "trash can" app.**
 
 A drag and drop trash can, drag pieces of rubbish into the bin to delete them.
 
-Concepts Explored:
+**Concepts Explored:**
 
 - Implementing drag & drop interfaces
 - onDragStart + onDragOver + onDrop
